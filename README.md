@@ -26,7 +26,7 @@ This project is deployed using **FastAPI** on Hugging Face Spaces. Upload a lung
 
 ```json
 {
-  "result": "Cancer Detected - Class G",
+  "result": "Cancer Detected - Squamous Cell Carcinoma",
   "confidence": 0.9821
 }
 
