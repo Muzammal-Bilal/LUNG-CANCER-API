@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Jupyter notebooks
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+
+# VSCode
+.vscode/
+
+# Model files
+*.h5
+*.hdf5
+*.ckpt
+*.keras
+*.pb
+*.tflite
+*.pkl
+*.joblib
+
+# Hugging Face and Transformers cache
+*.cache/
+huggingface/
+transformers/
+
+# Data files
+*.csv
+*.tsv
+*.log
+*.db
+*.sqlite
+*.zip
+*.tar.gz
+*.npy
+*.npz
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Node.js frontend (if using)
+node_modules/
+dist/
+build/
+
+# React/Vite builds
+*.map
+
+# PyCharm
+.idea/
+
+# Misc
+password.txt
